@@ -1,5 +1,5 @@
-# Introduction-to-Programming-and-Game-Introduction
-# oleh Felix Irwanto (GameDev Kelompok 3)
+<h1> Introduction-to-Programming-and-Game-Introduction </h1>
+<h2> oleh Felix Irwanto (GameDev Kelompok 3) </h2>
 
 
 ## Introduction-to-Programming
