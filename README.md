@@ -16,8 +16,8 @@ Next.js adalah sebuah [React](https://reactjs.org) framework yang memberikan kit
 ## Introduction-to-Programming
 
 Menurut Atmoko & Arizona (2016), **Programming / Pemrograman** adalah aktivitas membuat program. **Program** adalah sederetan instruksi atau ***statement*** dalam bahasa yang dimengerti oleh komputer yang bersangkutan, Yulikuspartono (2009:29). Bahasa yang dimengerti dari kalimat sebelumnya juga dikenal sebagai ***Programming Language*** / Bahasa Pemrograman. **Programming Language** bertujuan untuk mengajarkan komputer apa yang harus dilakukan secara jelas, sehingga komputer dapat menghasilkan output sesuai keinginan pengguna. Berikut contoh bahasa pemrograman yang dimengerti oleh komputer dan cukup populer.
-<img align="center" width="33%" src="https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png"> 
-![Programming Language](https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png)
+<p><img align="center" width="33%" src="https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png"> 
+![Programming Language](https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png)</p>
 
 - ***User Interface***: Bagaimana setiap user akan melihat atau mengkonsumsi konten serta berinteraksi dengan aplikasi.
 Routing: Bagaimana setiap user dapat mengakses setiap halaman atau bagian dari aplikasi.
