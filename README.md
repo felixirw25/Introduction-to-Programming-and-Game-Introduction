@@ -19,11 +19,11 @@ Menurut Atmoko & Arizona (2016), **Programming / Pemrograman** adalah aktivitas 
 <p align="center"><img width="50%" src="https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png"> </p>
 
 Bahasa Pemrograman terbagi menjadi beberapa jenis, yaitu Procedural Programming Language, Functional Programming Language, Object-oriented Programming Language, Scripting Programming Language, dan Logic Programming Language. 
-- Procedural Programming Language bahasa pemrograman yang mengeksekusi urutan pernyataan yang mengarah pada hasil, menggunakan banyak variabel, loop berat, dan elemen lainnya.
-- Functional Programming Language adalah bahasa pemrograman yang menggunakan data yang tersimpan, fungsi rekursif, dan nilai kembali fungsi. 
-- Object-oriented Programming Language adalah bahasa pemrograman yang menggunakan sistem enkapsulasi, pewarisan, dan polimorfisme. 
-- Scripting Programming Language adalah bahasa pemrograman yang bersifat prosedural, dapat terdiri dari elemen bahasa berorientasi objek, namun tidak cocok untuk pengembangan sistem besar. 
-- Logic Programming Language adalah bahasa pemrograman yang memuat pernyataan deklaratif dan memungkinkan mesin untuk mempertimbangkan konsekuensi dari pernyataan tersebut.
+- Procedural Programming Language : Bahasa pemrograman yang mengeksekusi urutan pernyataan yang mengarah pada hasil, menggunakan banyak variabel, loop berat, dan elemen lainnya.
+- Functional Programming Language : Bahasa pemrograman yang menggunakan data yang tersimpan, fungsi rekursif, dan nilai kembali fungsi. 
+- Object-oriented Programming Language : Bahasa pemrograman yang menggunakan sistem enkapsulasi, pewarisan, dan polimorfisme. 
+- Scripting Programming Language : Bahasa pemrograman yang bersifat prosedural, dapat terdiri dari elemen bahasa berorientasi objek, namun tidak cocok untuk pengembangan sistem besar. 
+- Logic Programming Language : Bahasa pemrograman yang memuat pernyataan deklaratif dan memungkinkan mesin untuk mempertimbangkan konsekuensi dari pernyataan tersebut.
 
 # Statement Vs Syntax
 **Statement** adalah 
