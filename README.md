@@ -13,9 +13,10 @@ Next.js menyediakan group [Discord](https://discord.com/invite/Q3AsD4efFC) untuk
 
 Next.js adalah sebuah [React](https://reactjs.org) framework yang memberikan kita sebuah building blocks untuk membuat sebuah aplikasi website secara cepat.
 
-## Building Blocks of a Web Application
+## Introduction-to-Programming
 
-Ada beberapa hal yang dapat kita pertimbangkan setiap membuat sebuah aplikasi pada era modern ini yang merupakan bagian dari **building blocks**
+Menurut Atmoko & Arizona (2016), **Programming / Pemrograman** adalah aktivitas membuat program. **Program** adalah sederetan instruksi atau ***statement*** dalam bahasa yang dimengerti oleh komputer yang bersangkutan, Yulikuspartono (2009:29). Bahasa yang dimengerti dari kalimat sebelumnya juga dikenal sebagai ***Programming Language*** / Bahasa Pemrograman. **Programming Language** bertujuan untuk mengajarkan komputer apa yang harus dilakukan secara jelas, sehingga komputer dapat menghasilkan output sesuai keinginan pengguna. Berikut contoh bahasa pemrograman yang dimengerti oleh komputer dan cukup populer.
+![Programming Language](https://www.watelectronics.com/types-of-programming-languages-with-differences/)
 
 - ***User Interface***: Bagaimana setiap user akan melihat atau mengkonsumsi konten serta berinteraksi dengan aplikasi.
 Routing: Bagaimana setiap user dapat mengakses setiap halaman atau bagian dari aplikasi.
