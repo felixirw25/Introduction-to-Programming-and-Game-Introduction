@@ -1,17 +1,5 @@
 # Introduction-to-Programming-and-Game-Introduction
-# oleh Felix Irwanto
-# GameDev Kelompok 3
-
-Untuk menggunakan [**Next.js**](https://nextjs.org), kita memerlukan beberapa pre-requisite sebelumnya agar lebih efektif dan mudah, beberapa diantaranya:
-
-- HTML
-- CSS
-- JavaScript
-- React.js
-
-Next.js menyediakan group [Discord](https://discord.com/invite/Q3AsD4efFC) untuk kita bisa berdiskusi dan berkomunitas dengan para contributor, developer, dan pembelajar dari seluruh dunia.
-
-Next.js adalah sebuah [React](https://reactjs.org) framework yang memberikan kita sebuah building blocks untuk membuat sebuah aplikasi website secara cepat.
+# oleh Felix Irwanto (GameDev Kelompok 3)
 
 ## Introduction-to-Programming
 
