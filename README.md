@@ -15,8 +15,8 @@ Bahasa Pemrograman terbagi menjadi beberapa jenis, yaitu Procedural Programming 
 <br>
 
 # Statement Vs Syntax
-**Statement** adalah 
-**Syntax** adalah 
+**Statement** adalah .
+**Syntax** adalah .
 
 - ***User Interface***: Bagaimana setiap user akan melihat atau mengkonsumsi konten serta berinteraksi dengan aplikasi.
 Routing: Bagaimana setiap user dapat mengakses setiap halaman atau bagian dari aplikasi.
