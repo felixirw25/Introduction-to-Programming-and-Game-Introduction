@@ -18,15 +18,6 @@ Statement Vs Syntax
 **Statement** adalah .
 **Syntax** adalah .
 
-- ***User Interface***: Bagaimana setiap user akan melihat atau mengkonsumsi konten serta berinteraksi dengan aplikasi.
-Routing: Bagaimana setiap user dapat mengakses setiap halaman atau bagian dari aplikasi.
-- ***Data Fetching***: Bagaimana proses mendapatkan sebuah data.
-Rendering: Proses memilih apakah sebuah halaman dan konten menggunakan static rendering, dynamic rendering, dan sebagainya.
-- ***Integrations***: Apa third-party yang kemungkinan akan kita gunakan? Misalnya CMS, authentication, payment gateway, dsb. Lalu bagaimana proses integrasi tersebut.
-- ***Infrastructure***: Tempat men-deploy, menyimpan, dan menjalankan code yang kita buat (Serverless, CDN, Edge, dsb)
-- ***Performance***: Bagaimana meng-optimize aplikasi untuk end-users. Misalnya membuat sebuah halaman website atau data dapat diakses dengan lebih cepat.
-- ***Scalability***: Bagaimana sebuah aplikasi dapat dengan baik menangani atau beradaptasi saat sebuah tim, data, dan traffic meningkat atau bertumbuh.
-- ***Developer Experience***: Bagaimana sebuah tim dan developer dapat dengan happy dan nyaman membuat serta me-maintaince aplikasi.
 
 ## Game Introduction
 
@@ -47,6 +38,12 @@ Keterampilan / Skills yang dibutuhkan dalam Game Development:
 - Game Design: Konsep dan dokumentasi game, aturan game (kalah-menang), statistik game yang bersifat tahap utama. Kemampuan yang dituntuk yaitu analisa, visi, penulisan cerita, keseimbangan statistik, desain, tren, komunikasi, dan ilmu umum.
 - Programming: Pengimplementasian game design menjadi produk melalui fase ngoding yang bersifat tahap kedua. Kemampuan yang dituntuk yaitu pemrograman, logika, peralatan yang terkait, pemodelan data, pemecahan masalah, analisa, sains, dan matematika.
 - Arts: Estetika (suara, musik, narasi, dsb.) yang ada di dalam game yang bersifat tahap tersier. Kemampuan yang dituntuk yaitu rasa seni, peralatan yang terkait, photoshop, blender, FL Studio, tren, dan fleksibel.
+
+Catatan Penting:
+<p align="center"><img width="50%" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1200/https://nikopartners.com/wp-content/uploads/2022/07/220623-NIKO-Infographic-Esports-Market-Asia_V6_high-1200x675.png"> </p>
+
+- Negara China menjadi pasar E-sports terbesar di Asia dengan pendapatan sebesar $403,1juta atau sekitar 6 Triliun Rupiah.
+- Negara Indonesia memiliki pendapatan sebesar $14,9juta atau sekitar 223 Miliar Rupiah yang tidak jauh dengan negara-negara di Asia Tenggara lainnya, meski memiliki penduduk ke-4 terbesar di dunia.
 
 
 **Copyright by Felix Irwanto - 2022**
