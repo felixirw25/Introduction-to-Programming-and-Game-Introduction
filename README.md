@@ -34,7 +34,7 @@ Rendering: Proses memilih apakah sebuah halaman dan konten menggunakan static re
 <p align="center"><img width="40%" height="250px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"> &nbsp; &nbsp; <img width="40%" height="250px" src="http://www.atari2600.com.br/Midia/Atari/Roms/000461.gif"></p>
 
 Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat 5 tahapan untuk mendefinisikan sebuah game: 
-<p align="center"><img width="50%" src="https://user-images.githubusercontent.com/113922230/191316328-e0a37c49-b458-4e6d-9737-388d171ffcc9.gif">
+<p align="center"><img width="80%" src="https://user-images.githubusercontent.com/113922230/191316328-e0a37c49-b458-4e6d-9737-388d171ffcc9.gif">
 
 - Game disebut **seni** jika diperuntukkan untuk **kesenangan**, namun disebut **hiburan** jika diperuntukkan untuk **uang**.
 - Sebuah hiburan disebut **game** apabila bersifat **interaktif**.
