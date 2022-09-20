@@ -30,19 +30,10 @@ Rendering: Proses memilih apakah sebuah halaman dan konten menggunakan static re
 
 ## Game Introduction
 
-***Game*** berasal dari kata bahasa inggris yang memiliki arti permainan. Menurut [Kominfo](https://kominfo.malangkab.go.id/pd/detail?title=pengaruh-game-dalam-kehidupan-sehari-hari), Game adalah suatu bentuk permainan atau olahraga, terutama yang kompetitif yang dimainkan menurut aturan dan diputuskan oleh keterampilan, kekuatan, atau keberuntungan. 
+<p align = "justify">***Game*** berasal dari kata bahasa inggris yang memiliki arti permainan. Menurut [Kominfo](https://kominfo.malangkab.go.id/pd/detail?title=pengaruh-game-dalam-kehidupan-sehari-hari), Game adalah suatu bentuk permainan atau olahraga, terutama yang kompetitif yang dimainkan menurut aturan dan diputuskan oleh keterampilan, kekuatan, atau keberuntungan. </p>
 <p align="center"><img width="40%" height="250px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"> &nbsp; &nbsp; <img width="40%" height="250px" src="http://www.atari2600.com.br/Midia/Atari/Roms/000461.gif"></p>
 
 Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat 5 tahapan untuk mendefinisikan sebuah game: 
 
-## Next.js - Apa itu Next.js?
-
-Next.js adalah sebuah React framework yang memberikan kita sebuah building blocks untuk membuat sebuah aplikasi website secara cepat.
-
-Framework disini maksudnya adalah Next.js yang melakukan konfigurasi yang dibutuhkan pada React dan menyediakan beberapa bagian dari building blocks yang sudah dapat langsung kita gunakan.
-
-![Next](https://nextjs.org/static/images/learn/foundations/next-app.png)
-
-Karena berbasis React, maka kita akan tetap menggunakan React untuk membuat UI dan menggunakan Next.js untuk fitur tambahan penting yang akan sering kita butuhkan seperti routing, data fetching, dan sebagainya. Kita dapat memangkas waktu dan fokus pada delivery aplikasi yang kita buat.
 
 **Copyright by Felix Irwanto - 2022**
