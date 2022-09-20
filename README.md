@@ -40,7 +40,7 @@ Keterampilan / Skills yang dibutuhkan dalam Game Development:
 - Arts: Estetika (suara, musik, narasi, dsb.) yang ada di dalam game yang bersifat tahap tersier. Kemampuan yang dituntuk yaitu rasa seni, peralatan yang terkait, photoshop, blender, FL Studio, tren, dan fleksibel.
 
 Catatan Penting:
-<p align="center"><img width="50%" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1200/https://nikopartners.com/wp-content/uploads/2022/07/220623-NIKO-Infographic-Esports-Market-Asia_V6_high-1200x675.png"> </p>
+<p align="center"><img width="80%" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1200/https://nikopartners.com/wp-content/uploads/2022/07/220623-NIKO-Infographic-Esports-Market-Asia_V6_high-1200x675.png"> </p>
 
 - Negara China menjadi pasar E-sports terbesar di Asia dengan pendapatan sebesar $403,1juta atau sekitar 6 Triliun Rupiah.
 - Negara Indonesia memiliki pendapatan sebesar $14,9juta atau sekitar 223 Miliar Rupiah yang tidak jauh dengan negara-negara di Asia Tenggara lainnya, meski memiliki penduduk ke-4 terbesar di dunia.
