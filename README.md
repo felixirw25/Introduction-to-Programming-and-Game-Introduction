@@ -33,8 +33,8 @@ Rendering: Proses memilih apakah sebuah halaman dan konten menggunakan static re
 ***Game*** berasal dari kata bahasa inggris yang memiliki arti permainan. Menurut [Kominfo](https://kominfo.malangkab.go.id/pd/detail?title=pengaruh-game-dalam-kehidupan-sehari-hari), Game adalah suatu bentuk permainan atau olahraga, terutama yang kompetitif yang dimainkan menurut aturan dan diputuskan oleh keterampilan, kekuatan, atau keberuntungan. 
 <p align="center"><img width="40%" height="250px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"> &nbsp; &nbsp; <img width="40%" height="250px" src="http://www.atari2600.com.br/Midia/Atari/Roms/000461.gif"></p>
 
-Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat beberapa tahapan untuk mendefinisikan sebuah game: 
-<p align="center"><img width="80%" src="https://user-images.githubusercontent.com/113922230/191316328-e0a37c49-b458-4e6d-9737-388d171ffcc9.gif">
+Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat 5 tahapan untuk mendefinisikan sebuah game: 
+<p align="center"><img width="80%" src="https://user-images.githubusercontent.com/113922230/191320508-99d16ea0-d184-4601-9942-f846585c1a51.gif">
 
 - Game disebut **seni** jika diperuntukkan untuk **kesenangan**, namun disebut **hiburan** jika diperuntukkan untuk **uang**.
 - Sebuah hiburan disebut **game** apabila bersifat **interaktif**.
@@ -44,8 +44,9 @@ Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_desi
 
 
 Keterampilan / Skills yang dibutuhkan dalam Game Development:
-- Game Design: Konsep dan dokumentasi game, aturan game (kalah-menang), statistik game yang bersifat tahap utama.
-- Programming: Pengimplementasian game design menjadi produk melalui fase ngoding yang bersifat tahap kedua.
-- Arts: Estetika (suara, musik, narasi, dsb.) yang ada di dalam game yang bersifat tahap tersier.
+- Game Design: Konsep dan dokumentasi game, aturan game (kalah-menang), statistik game yang bersifat tahap utama. Kemampuan yang dituntuk yaitu analisa, visi, penulisan cerita, keseimbangan statistik, desain, tren, komunikasi, dan ilmu umum.
+- Programming: Pengimplementasian game design menjadi produk melalui fase ngoding yang bersifat tahap kedua. Kemampuan yang dituntuk yaitu pemrograman, logika, peralatan yang terkait, pemodelan data, pemecahan masalah, analisa, sains, dan matematika.
+- Arts: Estetika (suara, musik, narasi, dsb.) yang ada di dalam game yang bersifat tahap tersier. Kemampuan yang dituntuk yaitu rasa seni, peralatan yang terkait, photoshop, blender, FL Studio, tren, dan fleksibel.
+
 
 **Copyright by Felix Irwanto - 2022**
