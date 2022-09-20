@@ -28,14 +28,11 @@ Rendering: Proses memilih apakah sebuah halaman dan konten menggunakan static re
 - ***Scalability***: Bagaimana sebuah aplikasi dapat dengan baik menangani atau beradaptasi saat sebuah tim, data, dan traffic meningkat atau bertumbuh.
 - ***Developer Experience***: Bagaimana sebuah tim dan developer dapat dengan happy dan nyaman membuat serta me-maintaince aplikasi.
 
-## React - Apa itu React
-React adalah sebuah JavaScript library untuk membuat user interface secara interaktif.
+## Game Introduction
 
-Library disini maksudnya adalah React menyediakan function bawaan yang dapat kita gunakan untuk membuat sebuah UI. User interface disini maksudnya adalah beberapa elemen yang kita dan user lihat pada layar dan bagaimana mereka berinteraksi.
-
-![React](https://nextjs.org/static/images/learn/foundations/user-interface.png)
-
-Kekurangan dari React adalah kita perlu melakukan beberapa konfigurasi pada setiap awal membuat sebuah aplikasi dan juga melakukan konfigurasi pada beberapa fitur yang kita perlukan namun belum tersedia secara default pada React yang terkadang memerlukan banyak waktu.
+***Game*** berasal dari kata bahasa inggris yang memiliki arti permainan. Menurut [Kominfo](https://kominfo.malangkab.go.id/pd/detail?title=pengaruh-game-dalam-kehidupan-sehari-hari), Game adalah suatu bentuk permainan atau olahraga, terutama yang kompetitif yang dimainkan menurut aturan dan diputuskan oleh keterampilan, kekuatan, atau keberuntungan. 
+<p align="center"><img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"><img width="50%" src="[http://www.atari2600.com.br/Midia/Atari/Roms/000461.gif"></p>
+Menurut [Chris Crawford] (Atari Game Designer), terdapat 5 tahapan untuk mendefinisikan sebuah game: 
 
 ## Next.js - Apa itu Next.js?
 
