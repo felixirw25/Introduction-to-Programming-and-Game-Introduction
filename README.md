@@ -33,13 +33,16 @@ Rendering: Proses memilih apakah sebuah halaman dan konten menggunakan static re
 ***Game*** berasal dari kata bahasa inggris yang memiliki arti permainan. Menurut [Kominfo](https://kominfo.malangkab.go.id/pd/detail?title=pengaruh-game-dalam-kehidupan-sehari-hari), Game adalah suatu bentuk permainan atau olahraga, terutama yang kompetitif yang dimainkan menurut aturan dan diputuskan oleh keterampilan, kekuatan, atau keberuntungan. 
 <p align="center"><img width="40%" height="250px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"> &nbsp; &nbsp; <img width="40%" height="250px" src="http://www.atari2600.com.br/Midia/Atari/Roms/000461.gif"></p>
 
-Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat 5 tahapan untuk mendefinisikan sebuah game: [MLBB.webm](https://user-images.githubusercontent.com/113922230/191314861-9896d439-5662-41a7-9fbd-e036bdb96ccd.webm)
-
+Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat 5 tahapan untuk mendefinisikan sebuah game: 
+<center>
+![MLBB](https://user-images.githubusercontent.com/113922230/191316328-e0a37c49-b458-4e6d-9737-388d171ffcc9.gif)
+</center>
 - Game disebut **seni** jika diperuntukkan untuk **kesenangan**, namun disebut **hiburan** jika diperuntukkan untuk **uang**.
 - Sebuah hiburan disebut **game** apabila bersifat **interaktif**.
 - Jika tidak terdapat **tujuan akhir** dari sebuah hiburan, maka disebut **mainan**.
 - Jika game **tidak memiliki** lawan, maka disebut **puzzle** dan disebut **conflict**, jika **memiliki** lawan.
 - Jika conflict **tidak boleh** mengganggu lawan, maka disebut **kompetisi** dan disebut **GAME**, jika **boleh mengganggu** lawan.
+
 
 Keterampilan / Skills yang dibutuhkan dalam Game Development:
 - Game Design: Konsep dan dokumentasi game, aturan game (kalah-menang), statistik game yang bersifat tahap utama.
