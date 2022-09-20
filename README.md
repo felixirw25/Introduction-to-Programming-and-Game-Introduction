@@ -14,7 +14,7 @@ Bahasa Pemrograman terbagi menjadi beberapa jenis, yaitu Procedural Programming 
 - Logic Programming Language : Bahasa pemrograman yang memuat pernyataan deklaratif dan memungkinkan mesin untuk mempertimbangkan konsekuensi dari pernyataan tersebut.
 <br>
 
-# Statement Vs Syntax
+Statement Vs Syntax
 **Statement** adalah .
 **Syntax** adalah .
 
@@ -33,13 +33,17 @@ Rendering: Proses memilih apakah sebuah halaman dan konten menggunakan static re
 ***Game*** berasal dari kata bahasa inggris yang memiliki arti permainan. Menurut [Kominfo](https://kominfo.malangkab.go.id/pd/detail?title=pengaruh-game-dalam-kehidupan-sehari-hari), Game adalah suatu bentuk permainan atau olahraga, terutama yang kompetitif yang dimainkan menurut aturan dan diputuskan oleh keterampilan, kekuatan, atau keberuntungan. 
 <p align="center"><img width="40%" height="250px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"> &nbsp; &nbsp; <img width="40%" height="250px" src="http://www.atari2600.com.br/Midia/Atari/Roms/000461.gif"></p>
 
-Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat 5 tahapan untuk mendefinisikan sebuah game: 
+Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat 5 tahapan untuk mendefinisikan sebuah game: [MLBB.webm](https://user-images.githubusercontent.com/113922230/191314861-9896d439-5662-41a7-9fbd-e036bdb96ccd.webm)
+
 - Game disebut **seni** jika diperuntukkan untuk **kesenangan**, namun disebut **hiburan** jika diperuntukkan untuk **uang**.
 - Sebuah hiburan disebut **game** apabila bersifat **interaktif**.
 - Jika tidak terdapat **tujuan akhir** dari sebuah hiburan, maka disebut **mainan**.
 - Jika game **tidak memiliki** lawan, maka disebut **puzzle** dan disebut **conflict**, jika **memiliki** lawan.
 - Jika conflict **tidak boleh** mengganggu lawan, maka disebut **kompetisi** dan disebut **GAME**, jika **boleh mengganggu** lawan.
-![manager](https://user-images.githubusercontent.com/113922230/191308585-6606acf1-7ec6-4564-b909-633071365d8b.jpg)
 
+Keterampilan / Skills yang dibutuhkan dalam Game Development:
+- Game Design: Konsep dan dokumentasi game, aturan game (kalah-menang), statistik game yang bersifat tahap utama.
+- Programming: Pengimplementasian game design menjadi produk melalui fase ngoding yang bersifat tahap kedua.
+- Arts: Estetika (suara, musik, narasi, dsb.) yang ada di dalam game yang bersifat tahap tersier.
 
 **Copyright by Felix Irwanto - 2022**
