@@ -32,7 +32,7 @@ Catatan Penting:
 ## Introduction-to-Programming
 
 Menurut Atmoko & Arizona (2016), **Programming / Pemrograman** adalah aktivitas membuat program. **Program** adalah sederetan instruksi atau ***statement*** dalam bahasa yang dimengerti oleh komputer yang bersangkutan, Yulikuspartono (2009:29). Bahasa yang dimengerti dari kalimat sebelumnya juga dikenal sebagai ***Programming Language*** / Bahasa Pemrograman. **Programming Language** bertujuan untuk mengajarkan komputer apa yang harus dilakukan secara jelas, sehingga komputer dapat menghasilkan output sesuai keinginan pengguna. Berikut contoh bahasa pemrograman yang dimengerti oleh komputer dan cukup populer, seperti: C, C#, PHP, Python, Javascript, Pascal, dll.
-<p align="center"><img width="70%" src="https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png"> </p>
+<p align="center"><img width="60%" src="https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png"> </p>
 
 
 Bahasa Pemrograman terbagi menjadi beberapa jenis, yaitu Procedural Programming Language, Functional Programming Language, Object-oriented Programming Language, Scripting Programming Language, dan Logic Programming Language: 
@@ -53,7 +53,7 @@ Contoh: Bahasa biner.
 
 <h2>Statement Vs Syntax</h2>
 
-<p align="center"><img width="80%" alt="Statement" src="https://user-images.githubusercontent.com/113922230/192080238-2e4aff55-0952-4beb-8d11-536e71511a25.png"></p>
+<p align="center"><img width="60%" alt="Statement" src="https://user-images.githubusercontent.com/113922230/192080238-2e4aff55-0952-4beb-8d11-536e71511a25.png"></p>
 
 **Statement** berfungsi memerintah komputer dengan instruksi yang jelas dan terperinci.
 **Syntax** adalah aturan yang mendefinisikan kombinasi simbol yang dianggap sebagai statement / pernyataan terstruktur dengan benar dalam suatu bahasa pemrograman.
@@ -78,13 +78,13 @@ Contoh:
 
 <h2>Loops</h2>
 
-**Loop** atau perulangan berfungsi ulangi tugas tertentu sampai mencapai titik henti. Titik henti dapat berupa pernyataan yang telah ditentukan sebelumnya atau kondisional. Perulangan yang sering dipakai dalam program yaitu for dan while. For dipakai ketika suatu perulangan sudah secara jelas diketahui titik hentinya. Contoh:
+**Loops** atau perulangan berfungsi mengulangi tugas tertentu sampai mencapai titik henti. Titik henti dapat berupa pernyataan yang telah ditentukan sebelumnya atau kondisional. Perulangan yang sering dipakai dalam program yaitu for dan while. For dipakai ketika suatu perulangan sudah secara jelas diketahui titik hentinya. Contoh:
 
+<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192082686-5c62136d-da60-4cd9-9a03-59fb5520c598.png"> </p>
 
-Contoh:
+While dipakai ketika suatu perulangan belum diketahui titik hentinya. Contoh:
 
-<p align="center"><img width="40%" height="250px" src="https://user-images.githubusercontent.com/113922230/192082070-b24ed7fc-d2f7-40e6-8048-e6a2b1e3f142.png"> &nbsp; &nbsp; <img width="40%" height="250px" src="https://user-images.githubusercontent.com/113922230/192082147-2ffc0520-adf1-4c24-8543-a9c4d6a557f2.png"> </p>
-
+<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192083066-c92f6af4-76d8-4762-a1b7-1d7e361495dc.png"> </p>
 
 
 <br/>
