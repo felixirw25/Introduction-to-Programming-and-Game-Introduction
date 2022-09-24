@@ -1,4 +1,4 @@
-<h1> Introduction-to-Programming-and-Game-Introduction </h1>
+<h1> Introduction to Programming & Game Introduction </h1>
 <p> oleh Felix Irwanto (GameDev Kelompok 3) </p>
 <br>
 
