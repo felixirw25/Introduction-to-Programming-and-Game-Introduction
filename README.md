@@ -43,7 +43,7 @@ Bahasa Pemrograman terbagi menjadi beberapa jenis, yaitu Procedural Programming 
 - Scripting Programming Language : Bahasa pemrograman yang bersifat prosedural, dapat terdiri dari elemen bahasa berorientasi objek, namun tidak cocok untuk pengembangan sistem besar. 
 - Logic Programming Language : Bahasa pemrograman yang memuat pernyataan deklaratif dan memungkinkan mesin untuk mempertimbangkan konsekuensi dari pernyataan tersebut.
 
-<br/><br/>
+<br/>
 
 Dikutip dari [dosenIT](https://dosenit.com/kuliah-it/pemrograman/tingkatan-bahasa-pemrograman), Bahasa Pemrograman terbagi menjadi beberapa tingkatan:
 - Bahasa pemrograman tingkat rendah (Bahasa Mesin): Bahasa yang bisa diolah komputer secara langsung tanpa kompilasi. 
