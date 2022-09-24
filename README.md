@@ -46,14 +46,9 @@ Bahasa Pemrograman terbagi menjadi beberapa jenis, yaitu Procedural Programming 
 Dikutip dari [dosenIT](https://dosenit.com/kuliah-it/pemrograman/tingkatan-bahasa-pemrograman), Bahasa Pemrograman terbagi menjadi beberapa tingkatan:
 - Bahasa pemrograman tingkat rendah (Bahasa Mesin): Bahasa yang bisa diolah komputer secara langsung tanpa kompilasi. 
 Contoh: Bahasa biner.
-- Bahasa pemrograman tingkat menengah (Bahasa Assembly): Bahasa yang memberikan satu tingkat abstraksi di atas kode mesin dan sedikit semantik / simbol. 
-Contoh: Bahasa Assembler.
-- Bahasa pemrograman tingkat tinggi: Bahasa yang memiliki sifat lebih mudah digunakan, mudah diadaptasikan antar-platform, dan lebih abstrak. 
-
-Contoh: Bahasa C++, Visual Basic, Delphi, dan Pascal.
-- Bahasa pemrograman tingkat sangat tinggi: Bahasa pemrograman dengan tingkat abstraksi yang sangat tinggi, yang di gunakan terutama sebagai alat produktivitas programmer profesional. 
-
-Contoh: Bahasa VB.Net, Java, dan PHP.
+- Bahasa pemrograman tingkat menengah (Bahasa Assembly): Bahasa yang memberikan satu tingkat abstraksi di atas kode mesin dan sedikit semantik / simbol. Contoh: Bahasa Assembler.
+- Bahasa pemrograman tingkat tinggi: Bahasa yang memiliki sifat lebih mudah digunakan, mudah diadaptasikan antar-platform, dan lebih abstrak. Contoh: Bahasa C++, Visual Basic, Delphi, dan Pascal.
+- Bahasa pemrograman tingkat sangat tinggi: Bahasa pemrograman dengan tingkat abstraksi yang sangat tinggi, yang di gunakan terutama sebagai alat produktivitas programmer profesional. Contoh: Bahasa VB.Net, Java, dan PHP.
 
 
 <h2>Statement Vs Syntax</h2>
@@ -67,6 +62,17 @@ Contoh: Bahasa VB.Net, Java, dan PHP.
 
 **Variabel** adalah lokasi penyimpanan yang dipasangkan dengan nama simbolis terkait (pengidentifikasi) yang berisi nilai.
 Contoh: int x = 80;
+
+<h2>Data & Data Types</h2>
+
+**Data** adalah suatu kumpulan yang terdiri dari fakta-fakta untuk memberikan gambaran yang luas terkait dengan suatu keadaan.
+**Data Types** atau tipe data adalah cara yang digunakan untuk menentukan jenis dari suatu data. Contoh: char, string, integer, float, dan boolean. Contoh: int x = 80;
+
+<h2>Conditional</h2>
+
+**Conditional** adalah pernyataan untuk menangani keputusan yang ada ketika membuat sebuah program untuk melakukan tindakan yang berbeda tergantung pada suatu kondisi benar atau salah. Contoh:
+
+<p align="center"><img width="40%" height="250px" src="https://user-images.githubusercontent.com/113922230/192082070-b24ed7fc-d2f7-40e6-8048-e6a2b1e3f142.png"> &nbsp; &nbsp; <img width="40%" height="250px" src="https://user-images.githubusercontent.com/113922230/192082147-2ffc0520-adf1-4c24-8543-a9c4d6a557f2.png"> </p>
 
 
 
