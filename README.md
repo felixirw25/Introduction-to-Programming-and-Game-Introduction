@@ -61,12 +61,14 @@ Contoh: Bahasa biner.
 <h2>Variabel</h2>
 
 **Variabel** adalah lokasi penyimpanan yang dipasangkan dengan nama simbolis terkait (pengidentifikasi) yang berisi nilai.
-Contoh: int x = 80;
+Contoh: 
+``` int x = 80; ``` 
 
 <h2>Data & Data Types</h2>
 
 **Data** adalah suatu kumpulan yang terdiri dari fakta-fakta untuk memberikan gambaran yang luas terkait dengan suatu keadaan.
-**Data Types** atau tipe data adalah cara yang digunakan untuk menentukan jenis dari suatu data. Contoh: char, string, integer, float, dan boolean. Contoh: int x = 80;
+**Data Types** atau tipe data adalah cara yang digunakan untuk menentukan jenis dari suatu data. Contoh: char, string, integer, float, dan boolean. Contoh: 
+``` int x = 80; ``` 
 
 <h2>Conditional</h2>
 
