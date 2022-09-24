@@ -56,7 +56,7 @@ Contoh: Bahasa VB.Net, Java, dan PHP.
 
 <h2>Statement Vs Syntax</h2>
 
-<img width="314" alt="Statement" src="https://user-images.githubusercontent.com/113922230/192080238-2e4aff55-0952-4beb-8d11-536e71511a25.png">
+<p align="center"><img width="314" alt="Statement" src="https://user-images.githubusercontent.com/113922230/192080238-2e4aff55-0952-4beb-8d11-536e71511a25.png"></p>
 
 **Statement** berfungsi memerintah komputer dengan instruksi yang jelas dan terperinci.
 **Syntax** adalah Tata Bahasa dalam Bahasa Komputer. Struktur dari sebuah pernyataan / statement.
