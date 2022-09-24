@@ -28,17 +28,19 @@ Catatan Penting:
 - Negara China menjadi pasar E-sports terbesar di Asia dengan pendapatan sebesar $403,1juta atau sekitar 6 Triliun Rupiah.
 - Negara Indonesia memiliki pendapatan sebesar $14,9juta atau sekitar 223 Miliar Rupiah yang tidak jauh dengan negara-negara di Asia Tenggara lainnya, meski memiliki penduduk ke-4 terbesar di dunia.
 <br/><br/>
+
 ## Introduction-to-Programming
+
 Menurut Atmoko & Arizona (2016), **Programming / Pemrograman** adalah aktivitas membuat program. **Program** adalah sederetan instruksi atau ***statement*** dalam bahasa yang dimengerti oleh komputer yang bersangkutan, Yulikuspartono (2009:29). Bahasa yang dimengerti dari kalimat sebelumnya juga dikenal sebagai ***Programming Language*** / Bahasa Pemrograman. **Programming Language** bertujuan untuk mengajarkan komputer apa yang harus dilakukan secara jelas, sehingga komputer dapat menghasilkan output sesuai keinginan pengguna. Berikut contoh bahasa pemrograman yang dimengerti oleh komputer dan cukup populer, seperti: C, C#, PHP, Python, Javascript, Pascal, dll.
 <p align="center"><img width="50%" src="https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png"> </p>
-
+<br/>
 Bahasa Pemrograman terbagi menjadi beberapa jenis, yaitu Procedural Programming Language, Functional Programming Language, Object-oriented Programming Language, Scripting Programming Language, dan Logic Programming Language: 
 - Procedural Programming Language : Bahasa pemrograman yang mengeksekusi urutan pernyataan yang mengarah pada hasil, menggunakan banyak variabel, loop berat, dan elemen lainnya.
 - Functional Programming Language : Bahasa pemrograman yang menggunakan data yang tersimpan, fungsi rekursif, dan nilai kembali fungsi. 
 - Object-oriented Programming Language : Bahasa pemrograman yang menggunakan sistem enkapsulasi, pewarisan, dan polimorfisme. 
 - Scripting Programming Language : Bahasa pemrograman yang bersifat prosedural, dapat terdiri dari elemen bahasa berorientasi objek, namun tidak cocok untuk pengembangan sistem besar. 
 - Logic Programming Language : Bahasa pemrograman yang memuat pernyataan deklaratif dan memungkinkan mesin untuk mempertimbangkan konsekuensi dari pernyataan tersebut.
-
+<br/>
 Dikutip dari [dosenIT](https://dosenit.com/kuliah-it/pemrograman/tingkatan-bahasa-pemrograman), Bahasa Pemrograman terbagi menjadi beberapa tingkatan:
 - Bahasa pemrograman tingkat rendah (Bahasa Mesin): Bahasa yang bisa diolah komputer secara langsung tanpa kompilasi. 
 Contoh: Bahasa biner.
