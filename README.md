@@ -27,6 +27,7 @@ Catatan Penting:
 <p align="center">Sumber: <a href="https://hybrid.co.id/post/pasar-esports-asia-2021">hybrid.co.id</a> (2021)</p>
 - Negara China menjadi pasar E-sports terbesar di Asia dengan pendapatan sebesar $403,1juta atau sekitar 6 Triliun Rupiah.
 - Negara Indonesia memiliki pendapatan sebesar $14,9juta atau sekitar 223 Miliar Rupiah yang tidak jauh dengan negara-negara di Asia Tenggara lainnya, meski memiliki penduduk ke-4 terbesar di dunia.
+
 <br/><br/>
 
 ## Introduction-to-Programming
