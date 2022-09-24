@@ -59,11 +59,10 @@ Contoh: Bahasa VB.Net, Java, dan PHP.
 <p align="center"><img width="314" alt="Statement" src="https://user-images.githubusercontent.com/113922230/192080238-2e4aff55-0952-4beb-8d11-536e71511a25.png"></p>
 
 **Statement** berfungsi memerintah komputer dengan instruksi yang jelas dan terperinci.
-**Syntax** adalah Tata Bahasa dalam Bahasa Komputer. Struktur dari sebuah pernyataan / statement.
+**Syntax** adalah aturan yang mendefinisikan kombinasi simbol yang dianggap sebagai statement / pernyataan terstruktur dengan benar dalam suatu bahasa pemrograman.
 
 
 
-<br/>
 <br/>
 <br/>
 **Copyright by Felix Irwanto - 2022**
