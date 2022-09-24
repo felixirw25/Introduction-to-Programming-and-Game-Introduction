@@ -74,7 +74,7 @@ Contoh: int x = 80;
 
 Contoh:
 
-<p align="center"><img width="40%" height="250px" src="https://user-images.githubusercontent.com/113922230/192082070-b24ed7fc-d2f7-40e6-8048-e6a2b1e3f142.png"> &nbsp; &nbsp; <img width="40%" height="250px" src="https://user-images.githubusercontent.com/113922230/192082147-2ffc0520-adf1-4c24-8543-a9c4d6a557f2.png"> </p>
+<p align="center"><img width="40%" src="https://user-images.githubusercontent.com/113922230/192082070-b24ed7fc-d2f7-40e6-8048-e6a2b1e3f142.png"> &nbsp; &nbsp; <img width="40%" src="https://user-images.githubusercontent.com/113922230/192082147-2ffc0520-adf1-4c24-8543-a9c4d6a557f2.png"> </p>
 
 <h2>Loops</h2>
 
@@ -85,6 +85,18 @@ Contoh:
 While dipakai ketika suatu perulangan belum diketahui titik hentinya. Contoh:
 
 <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192083066-c92f6af4-76d8-4762-a1b7-1d7e361495dc.png"> </p>
+
+
+<h2>Function / Method</h2>
+
+**Function / Method** adalah bagian dari kode yang ditulis sekali tetapi dapat digunakan di banyak tempat dalam program. **Function / Method** dalam program terbagi dua, yaitu method void dan method bertipe data. Method void dipakai ketika suatu method tidak memiliki nilai balikan. Contoh: 
+
+<p align="center"><img width="60%" src=""> </p>
+
+Method bertipe data dipakai ketika suatu method memiliki nilai balikan. Contoh:
+
+<p align="center"><img width="60%" src=""> </p>
+
 
 
 <br/>
