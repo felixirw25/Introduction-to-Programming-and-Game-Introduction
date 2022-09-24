@@ -70,7 +70,9 @@ Contoh: int x = 80;
 
 <h2>Conditional</h2>
 
-**Conditional** adalah pernyataan untuk menangani keputusan yang ada ketika membuat sebuah program untuk melakukan tindakan yang berbeda tergantung pada suatu kondisi benar atau salah. Contoh:
+**Conditional** atau pengkondisian adalah pernyataan untuk menangani keputusan yang ada ketika membuat sebuah program untuk melakukan tindakan yang berbeda tergantung pada suatu kondisi benar atau salah. Pengkondisian yang sering dipakai dalam program yaitu if-else dan switch.
+
+Contoh:
 
 <p align="center"><img width="40%" height="250px" src="https://user-images.githubusercontent.com/113922230/192082070-b24ed7fc-d2f7-40e6-8048-e6a2b1e3f142.png"> &nbsp; &nbsp; <img width="40%" height="250px" src="https://user-images.githubusercontent.com/113922230/192082147-2ffc0520-adf1-4c24-8543-a9c4d6a557f2.png"> </p>
 
