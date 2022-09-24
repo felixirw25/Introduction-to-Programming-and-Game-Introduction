@@ -49,8 +49,10 @@ Contoh: Bahasa biner.
 - Bahasa pemrograman tingkat menengah (Bahasa Assembly): Bahasa yang memberikan satu tingkat abstraksi di atas kode mesin dan sedikit semantik / simbol. 
 Contoh: Bahasa Assembler.
 - Bahasa pemrograman tingkat tinggi: Bahasa yang memiliki sifat lebih mudah digunakan, mudah diadaptasikan antar-platform, dan lebih abstrak. 
+
 Contoh: Bahasa C++, Visual Basic, Delphi, dan Pascal.
 - Bahasa pemrograman tingkat sangat tinggi: Bahasa pemrograman dengan tingkat abstraksi yang sangat tinggi, yang di gunakan terutama sebagai alat produktivitas programmer profesional. 
+
 Contoh: Bahasa VB.Net, Java, dan PHP.
 
 
