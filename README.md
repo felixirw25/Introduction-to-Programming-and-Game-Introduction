@@ -62,6 +62,7 @@ Contoh: Bahasa VB.Net, Java, dan PHP.
 **Syntax** adalah aturan yang mendefinisikan kombinasi simbol yang dianggap sebagai statement / pernyataan terstruktur dengan benar dalam suatu bahasa pemrograman.
 
 <h2>Variabel</h2>
+
 **Variabel** adalah lokasi penyimpanan yang dipasangkan dengan nama simbolis terkait (pengidentifikasi) yang berisi nilai.
 Contoh: int x = 80;
 
