@@ -91,11 +91,11 @@ While dipakai ketika suatu perulangan belum diketahui titik hentinya. Contoh:
 
 **Function / Method** adalah bagian dari kode yang ditulis sekali tetapi dapat digunakan di banyak tempat dalam program. **Function / Method** dalam program terbagi dua, yaitu method void dan method bertipe data. Method void dipakai ketika suatu method tidak memiliki nilai balikan. Contoh: 
 
-<p align="center"><img width="60%" src=""> </p>
+<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192084090-dae2bc7a-b8ad-42b0-8709-761c9f670a0b.png"> </p>
 
 Method bertipe data dipakai ketika suatu method memiliki nilai balikan. Contoh:
 
-<p align="center"><img width="60%" src=""> </p>
+<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192084325-d983a8d3-5d52-40f5-9713-0f71f3726d64.png"> </p>
 
 
 
