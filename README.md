@@ -74,9 +74,55 @@ Contoh:
 
 **Conditional** atau pengkondisian adalah pernyataan untuk menangani keputusan yang ada ketika membuat sebuah program untuk melakukan tindakan yang berbeda tergantung pada suatu kondisi benar atau salah. Pengkondisian yang sering dipakai dalam program yaitu if-else dan switch.
 
-Contoh:
+Contoh pengkondisian if digabung dengan switch (kondisi benar dan salah):
+```
+int gold = 10000;
 
-<p align="center"><img width="40%" src="https://user-images.githubusercontent.com/113922230/192082070-b24ed7fc-d2f7-40e6-8048-e6a2b1e3f142.png"> &nbsp; &nbsp; <img width="40%" src="https://user-images.githubusercontent.com/113922230/192082147-2ffc0520-adf1-4c24-8543-a9c4d6a557f2.png"> </p>
+Console.Write("Gold yang Dimiliki: " + gold);
+Console.Write("\nItem Yang Ingin Dibeli : ");
+string item = Console.ReadLine();
+
+switch(item){
+    case "Sword" : 
+        if(gold >= 5000)
+        {
+            gold -= 5000;
+            Console.WriteLine("Item Sword Terbeli");
+            Console.WriteLine("Sisa Gold : " + gold);
+        }
+        else{
+            Console.WriteLine("Gold Kurang");
+        }
+        break;
+    case "Shield" :
+        if(gold >= 3000)
+        {
+            gold -= 3000;
+            Console.WriteLine("Item Shield Terbelih");
+            Console.WriteLine("Sisa Gold : " + gold);
+        }
+        else{
+            Console.WriteLine("Gold Kurang");
+        }
+        break;
+    case "Gun" :
+        if(gold >= 12000)
+        {
+            gold -= 12000;
+            Console.WriteLine("Item Gun Terbelih");
+            Console.WriteLine("Sisa Gold : " + gold);
+        }
+        else{
+            Console.WriteLine("Gold Kurang");
+        }
+        break;
+    default:
+        Console.WriteLine("Item tidak tersedia");
+        break;
+}
+```
+<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192082070-b24ed7fc-d2f7-40e6-8048-e6a2b1e3f142.png">  &nbsp; &nbsp;  <img width="40%" src="https://user-images.githubusercontent.com/113922230/192082147-2ffc0520-adf1-4c24-8543-a9c4d6a557f2.png"> </p>
+
 
 <h2>Loops</h2>
 
