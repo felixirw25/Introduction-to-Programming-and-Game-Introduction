@@ -148,7 +148,7 @@ namespace Perulangan{
 }
 ```
 Output:
-<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192082686-5c62136d-da60-4cd9-9a03-59fb5520c598.png"> </p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192082686-5c62136d-da60-4cd9-9a03-59fb5520c598.png"> </p>
 
 While dipakai ketika suatu perulangan belum diketahui titik hentinya. Contoh:
 ```
