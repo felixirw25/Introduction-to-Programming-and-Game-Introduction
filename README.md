@@ -5,7 +5,7 @@
 ## Game Introduction
 
 ***Game*** berasal dari kata bahasa inggris yang memiliki arti permainan. Menurut [Kominfo](https://kominfo.malangkab.go.id/pd/detail?title=pengaruh-game-dalam-kehidupan-sehari-hari), Game adalah suatu bentuk permainan atau olahraga, terutama yang kompetitif yang dimainkan menurut aturan dan diputuskan oleh keterampilan, kekuatan, atau keberuntungan. 
-<p align="center"><img width="40%" height="250px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"> &nbsp; &nbsp; <img width="40%" height="250px" src="http://www.atari2600.com.br/Midia/Atari/Roms/000461.gif"></p>
+<p align="center"><img width="40%" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Chris-Crawford.jpg"> &nbsp; &nbsp; <img width="40%" src="http://www.atari2600.com.br/Midia/Atari/Roms/000461.gif"></p>
 
 Menurut [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)), ( [Atari](https://en.wikipedia.org/wiki/Atari) Game Designer ), terdapat 5 tahapan untuk mendefinisikan sebuah game: 
 <p align="center"><img width="80%" src="https://user-images.githubusercontent.com/113922230/191320508-99d16ea0-d184-4601-9942-f846585c1a51.gif">
@@ -97,7 +97,11 @@ Method bertipe data dipakai ketika suatu method memiliki nilai balikan. Method j
 
 <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192084325-d983a8d3-5d52-40f5-9713-0f71f3726d64.png"> </p>
 
+<h2>Array</h2>
 
+**Array** adalah struktur data yang menyimpan data yang serupa. Array terbagi menjadi array satu dan multi dimensi. Contoh: 
+
+<p align="center"><img width="40%" src="https://user-images.githubusercontent.com/113922230/192084656-36ea5146-4ff1-4763-a80f-baf8c1a2c82b.png"> &nbsp; &nbsp; <img width="40%" src="https://user-images.githubusercontent.com/113922230/192084781-ab1ecd40-2f71-4d15-9df9-8050845b1495.png"></p>
 
 <br/>
 <br/>
