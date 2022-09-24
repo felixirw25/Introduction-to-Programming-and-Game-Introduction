@@ -121,35 +121,159 @@ switch(item){
         break;
 }
 ```
-<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192082070-b24ed7fc-d2f7-40e6-8048-e6a2b1e3f142.png">  &nbsp; &nbsp;  <img width="40%" src="https://user-images.githubusercontent.com/113922230/192082147-2ffc0520-adf1-4c24-8543-a9c4d6a557f2.png"> </p>
-
+Output:
+<p align="center"><img width="40%" src="https://user-images.githubusercontent.com/113922230/192082070-b24ed7fc-d2f7-40e6-8048-e6a2b1e3f142.png">  &nbsp; &nbsp;  <img width="40%" src="https://user-images.githubusercontent.com/113922230/192082147-2ffc0520-adf1-4c24-8543-a9c4d6a557f2.png"> </p>
 
 <h2>Loops</h2>
 
 **Loops** atau perulangan berfungsi mengulangi tugas tertentu sampai mencapai titik henti. Titik henti dapat berupa pernyataan yang telah ditentukan sebelumnya atau kondisional. Perulangan yang sering dipakai dalam program yaitu for dan while. For dipakai ketika suatu perulangan sudah secara jelas diketahui titik hentinya. Contoh:
-
+```
+using System;
+namespace Perulangan{
+    class perulanganFor{
+        static void Main (string[] args) {
+            // Program Felix Irwanto - Game 3
+            Console.Clear();
+            int[,] duaDimensi = new int[3,4]{ {1,2,3,4}, {5,6,7,8}, {9,10,11,12}};
+            for (int i = 0; i < duaDimensi.GetLength(0); i++)
+            {
+                for (int j = 0; j < duaDimensi.GetLength(1); j++)
+                {
+                    Console.Write(duaDimensi[i,j] + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}
+```
+Output:
 <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192082686-5c62136d-da60-4cd9-9a03-59fb5520c598.png"> </p>
 
 While dipakai ketika suatu perulangan belum diketahui titik hentinya. Contoh:
+```
+using System;
+namespace Perulangan{
+    class perulanganWhile{
+        static void Main (string[] args) {
+            // Program Felix Irwanto - Game 3
+            Console.Clear();
+            int angka;
+            int jumlahDigit;
 
+            angka = 10;
+            jumlahDigit = 0;
+
+            Console.WriteLine("Angka: " + angka);
+            while (angka > 0)
+            {
+                jumlahDigit++;
+                angka = angka / 10;
+            }
+
+            Console.WriteLine("Jumlah Digit: " + jumlahDigit);
+        }
+    }
+}
+```
+Output: 
 <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192083066-c92f6af4-76d8-4762-a1b7-1d7e361495dc.png"> </p>
 
 
 <h2>Function / Method</h2>
 
 **Function / Method** adalah bagian dari kode yang ditulis sekali tetapi dapat digunakan di banyak tempat dalam program. **Function / Method** dalam program terbagi dua, yaitu method void dan method bertipe data. Method void dipakai ketika suatu method tidak memiliki nilai balikan. Contoh: 
+```
+using System;
+namespace FungsiMethod {
+    class MethodVoid
+    {
+        static void Main(string[] args)
+        {
+            Console.Clear();
+            HitungTampilkanHasil();
+            HitungTampilkanHasil();
+            HitungTampilkanHasil();
+        }
 
+        static void HitungTampilkanHasil()
+        {
+            Console.WriteLine(45 + 55);
+        }
+    }
+}
+```
+Output: 
 <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192084090-dae2bc7a-b8ad-42b0-8709-761c9f670a0b.png"> </p>
 
 Method bertipe data dipakai ketika suatu method memiliki nilai balikan. Method juga dapat disederhanakan dengan mendefinisikan Expression-Embodied Member. Contoh:
-
+```
+using System;
+namespace Penjumlahan {
+    class Angka {
+        static int PenjumlahanTigaAngka(int angka1, int angka2, int angka3) => angka1 + angka2 + angka3;
+        static void Main(String[] args) {
+            Console.Clear();
+            Console.WriteLine(PenjumlahanTigaAngka(33,33,34));
+        }
+    }
+}
+```
+Output: 
 <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192084325-d983a8d3-5d52-40f5-9713-0f71f3726d64.png"> </p>
 
 <h2>Array</h2>
 
-**Array** adalah struktur data yang menyimpan data yang serupa. Array terbagi menjadi array satu dan multi dimensi. Contoh: 
+**Array** adalah struktur data yang menyimpan data yang serupa. Array terbagi menjadi array satu dan multi dimensi. 
 
-<p align="center"><img width="40%" src="https://user-images.githubusercontent.com/113922230/192084656-36ea5146-4ff1-4763-a80f-baf8c1a2c82b.png"> &nbsp; &nbsp; <img width="40%" src="https://user-images.githubusercontent.com/113922230/192084781-ab1ecd40-2f71-4d15-9df9-8050845b1495.png"></p>
+Contoh Array Satu Dimensi: 
+```
+object[] arrayObjek = { 20.33, "Lorem ipsum", true, 'D' };
+Console.WriteLine($"{arrayObjek[2]}");
+```
+Output: 
+<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192084656-36ea5146-4ff1-4763-a80f-baf8c1a2c82b.png"> </p>
+
+Contoh Array Dua Dimensi: 
+```
+char[,] arrayXO   = new char [3, 3];
+
+for (int i = 0; i < arrayXO.GetLength(0); i++)
+{
+    for (int j = 0; j < arrayXO.GetLength(1); j++)
+    {
+        if(i % 2 == 0)
+        {
+            if(j % 2 == 0) {
+                arrayXO[i,j] = 'x';
+            }
+            else{
+                arrayXO[i,j] = 'o';
+            }
+        }
+        else
+        {
+            if(j % 2 == 0) {
+                arrayXO[i,j] = 'o';
+            }
+            else {
+                arrayXO[i,j] = 'x';
+            }
+        }
+    }
+}
+
+for (int i = 0; i < arrayXO.GetLength(0); i++)
+{
+    for (int j = 0; j < arrayXO.GetLength(1); j++)
+    {
+        Console.Write(arrayXO[i,j] + " ");
+    }
+    Console.WriteLine();
+}
+```
+Output:
+<p> <img width="60%" src="https://user-images.githubusercontent.com/113922230/192084781-ab1ecd40-2f71-4d15-9df9-8050845b1495.png"> </p>
 
 <br/>
 <br/>
