@@ -34,7 +34,6 @@ Catatan Penting:
 Menurut Atmoko & Arizona (2016), **Programming / Pemrograman** adalah aktivitas membuat program. **Program** adalah sederetan instruksi atau ***statement*** dalam bahasa yang dimengerti oleh komputer yang bersangkutan, Yulikuspartono (2009:29). Bahasa yang dimengerti dari kalimat sebelumnya juga dikenal sebagai ***Programming Language*** / Bahasa Pemrograman. **Programming Language** bertujuan untuk mengajarkan komputer apa yang harus dilakukan secara jelas, sehingga komputer dapat menghasilkan output sesuai keinginan pengguna. Berikut contoh bahasa pemrograman yang dimengerti oleh komputer dan cukup populer, seperti: C, C#, PHP, Python, Javascript, Pascal, dll.
 <p align="center"><img width="50%" src="https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png"> </p>
 
-<br/>
 
 Bahasa Pemrograman terbagi menjadi beberapa jenis, yaitu Procedural Programming Language, Functional Programming Language, Object-oriented Programming Language, Scripting Programming Language, dan Logic Programming Language: 
 - Procedural Programming Language : Bahasa pemrograman yang mengeksekusi urutan pernyataan yang mengarah pada hasil, menggunakan banyak variabel, loop berat, dan elemen lainnya.
