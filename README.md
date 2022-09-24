@@ -177,7 +177,7 @@ namespace Perulangan{
 }
 ```
 Output: 
-<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192083066-c92f6af4-76d8-4762-a1b7-1d7e361495dc.png"> </p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192083066-c92f6af4-76d8-4762-a1b7-1d7e361495dc.png"> </p>
 
 
 <h2>Function / Method</h2>
@@ -204,7 +204,7 @@ namespace FungsiMethod {
 }
 ```
 Output: 
-<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192084090-dae2bc7a-b8ad-42b0-8709-761c9f670a0b.png"> </p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192084090-dae2bc7a-b8ad-42b0-8709-761c9f670a0b.png"> </p>
 
 Method bertipe data dipakai ketika suatu method memiliki nilai balikan. Method juga dapat disederhanakan dengan mendefinisikan Expression-Embodied Member. Contoh:
 ```
@@ -220,7 +220,7 @@ namespace Penjumlahan {
 }
 ```
 Output: 
-<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192084325-d983a8d3-5d52-40f5-9713-0f71f3726d64.png"> </p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192084325-d983a8d3-5d52-40f5-9713-0f71f3726d64.png"> </p>
 
 <h2>Array</h2>
 
@@ -232,7 +232,7 @@ object[] arrayObjek = { 20.33, "Lorem ipsum", true, 'D' };
 Console.WriteLine($"{arrayObjek[2]}");
 ```
 Output: 
-<p align="center"><img width="60%" src="https://user-images.githubusercontent.com/113922230/192084656-36ea5146-4ff1-4763-a80f-baf8c1a2c82b.png"> </p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192084656-36ea5146-4ff1-4763-a80f-baf8c1a2c82b.png"> </p>
 
 Contoh Array Dua Dimensi: 
 ```
@@ -273,8 +273,7 @@ for (int i = 0; i < arrayXO.GetLength(0); i++)
 }
 ```
 Output:
-<p> <img width="60%" src="https://user-images.githubusercontent.com/113922230/192084781-ab1ecd40-2f71-4d15-9df9-8050845b1495.png"> </p>
+<p> <img width="100%" src="https://user-images.githubusercontent.com/113922230/192084781-ab1ecd40-2f71-4d15-9df9-8050845b1495.png"> </p>
 
-<br/>
 <br/>
 **Copyright by Felix Irwanto - 2022**
